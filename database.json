@@ -1,0 +1,1097 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Wallaby Brownill",
+      "email": "wbrownill0@1688.com"
+    },
+    {
+      "id": 2,
+      "name": "Glenda Awty",
+      "email": "gawty1@goodreads.com"
+    },
+    {
+      "id": 3,
+      "name": "Oran Fenimore",
+      "email": "ofenimore2@about.com"
+    },
+    {
+      "id": 4,
+      "name": "Aylmar Hunnam",
+      "email": "ahunnam3@skype.com"
+    },
+    {
+      "id": 5,
+      "name": "Vonny Parrett",
+      "email": "vparrett4@usda.gov"
+    },
+    {
+      "id": 6,
+      "name": "Peterus Bennetto",
+      "email": "pbennetto5@dell.com"
+    },
+    {
+      "id": 7,
+      "name": "Florinda Mines",
+      "email": "fmines6@phpbb.com"
+    },
+    {
+      "id": 8,
+      "name": "Barris Saxelby",
+      "email": "bsaxelby7@dedecms.com"
+    },
+    {
+      "id": 9,
+      "name": "Garvin Dunks",
+      "email": "gdunks8@hud.gov"
+    },
+    {
+      "id": 10,
+      "name": "Archambault Vamplers",
+      "email": "avamplers9@newyorker.com"
+    },
+    {
+      "id": 11,
+      "name": "Mirelle Manger",
+      "email": "mmangera@phoca.cz"
+    },
+    {
+      "id": 12,
+      "name": "Devon Uc",
+      "email": "ducb@miibeian.gov.cn"
+    },
+    {
+      "id": 13,
+      "name": "Cate Forde",
+      "email": "cfordec@ihg.com"
+    },
+    {
+      "id": 14,
+      "name": "Belva Lorincz",
+      "email": "blorinczd@jugem.jp"
+    },
+    {
+      "id": 15,
+      "name": "Elisha Leeuwerink",
+      "email": "eleeuwerinke@unc.edu"
+    },
+    {
+      "id": 16,
+      "name": "Caspar Darch",
+      "email": "cdarchf@yellowpages.com"
+    },
+    {
+      "id": 17,
+      "name": "Lauritz Bulcock",
+      "email": "lbulcockg@sina.com.cn"
+    },
+    {
+      "id": 18,
+      "name": "Willyt Sterley",
+      "email": "wsterleyh@twitter.com"
+    },
+    {
+      "id": 19,
+      "name": "Mohandas Hudghton",
+      "email": "mhudghtoni@histats.com"
+    },
+    {
+      "id": 20,
+      "name": "Lotta Gownge",
+      "email": "lgowngej@sogou.com"
+    }
+  ],
+  "interstates": [
+    {
+      "id": 1,
+      "name": "I-4"
+    },
+    {
+      "id": 2,
+      "name": "I-5"
+    },
+    {
+      "id": 3,
+      "name": "I-8"
+    },
+    {
+      "id": 4,
+      "name": "I-10"
+    },
+    {
+      "id": 5,
+      "name": "I-12"
+    },
+    {
+      "id": 6,
+      "name": "I-15"
+    },
+    {
+      "id": 7,
+      "name": "I-16"
+    },
+    {
+      "id": 8,
+      "name": "I-17"
+    },
+    {
+      "id": 9,
+      "name": "I-19"
+    },
+    {
+      "id": 10,
+      "name": "I-20"
+    },
+    {
+      "id": 11,
+      "name": "I-24"
+    },
+    {
+      "id": 12,
+      "name": "I-25"
+    },
+    {
+      "id": 13,
+      "name": "I-26"
+    },
+    {
+      "id": 14,
+      "name": "I-27"
+    },
+    {
+      "id": 15,
+      "name": "I-29"
+    },
+    {
+      "id": 16,
+      "name": "I-30"
+    },
+    {
+      "id": 17,
+      "name": "I-35"
+    },
+    {
+      "id": 18,
+      "name": "I-37"
+    },
+    {
+      "id": 19,
+      "name": "I-39"
+    },
+    {
+      "id": 20,
+      "name": "I-40"
+    },
+    {
+      "id": 21,
+      "name": "I-43"
+    },
+    {
+      "id": 22,
+      "name": "I-44"
+    },
+    {
+      "id": 23,
+      "name": "I-45"
+    },
+    {
+      "id": 24,
+      "name": "I-49"
+    },
+    {
+      "id": 25,
+      "name": "I-55"
+    },
+    {
+      "id": 26,
+      "name": "I-57"
+    },
+    {
+      "id": 27,
+      "name": "I-59"
+    },
+    {
+      "id": 28,
+      "name": "I-64"
+    },
+    {
+      "id": 29,
+      "name": "I-65"
+    },
+    {
+      "id": 30,
+      "name": "I-66"
+    },
+    {
+      "id": 31,
+      "name": "I-68"
+    },
+    {
+      "id": 32,
+      "name": "I-69"
+    },
+    {
+      "id": 33,
+      "name": "I-70"
+    },
+    {
+      "id": 34,
+      "name": "I-71"
+    },
+    {
+      "id": 35,
+      "name": "I-72"
+    },
+    {
+      "id": 36,
+      "name": "I-74"
+    },
+    {
+      "id": 37,
+      "name": "I-75"
+    },
+    {
+      "id": 38,
+      "name": "I-76"
+    },
+    {
+      "id": 39,
+      "name": "I-77"
+    },
+    {
+      "id": 40,
+      "name": "I-78"
+    },
+    {
+      "id": 41,
+      "name": "I-79"
+    },
+    {
+      "id": 42,
+      "name": "I-80"
+    },
+    {
+      "id": 43,
+      "name": "I-81"
+    },
+    {
+      "id": 44,
+      "name": "I-82"
+    },
+    {
+      "id": 45,
+      "name": "I-83"
+    },
+    {
+      "id": 46,
+      "name": "I-84"
+    },
+    {
+      "id": 47,
+      "name": "I-85"
+    },
+    {
+      "id": 48,
+      "name": "I-86"
+    },
+    {
+      "id": 49,
+      "name": "I-87"
+    },
+    {
+      "id": 50,
+      "name": "I-88"
+    },
+    {
+      "id": 51,
+      "name": "I-89"
+    },
+    {
+      "id": 52,
+      "name": "I-90"
+    },
+    {
+      "id": 53,
+      "name": "I-91"
+    },
+    {
+      "id": 54,
+      "name": "I-93"
+    },
+    {
+      "id": 55,
+      "name": "I-94"
+    },
+    {
+      "id": 56,
+      "name": "I-95"
+    },
+    {
+      "id": 57,
+      "name": "I-96"
+    },
+    {
+      "id": 58,
+      "name": "I-97"
+    },
+    {
+      "id": 59,
+      "name": "I-99"
+    }
+  ],
+  "exits": [
+    {
+      "id": 1,
+      "name": "Exit 1",
+      "interstateId": 1,
+      "city": "Tampa",
+      "state": "Florida"
+    },
+    {
+      "id": 2,
+      "name": "Exit 3",
+      "interstateId": 1,
+      "city": "Tampa",
+      "state": "Florida"
+    },
+    {
+      "id": 3,
+      "name": "Exit 5",
+      "interstateId": 1,
+      "city": "Tampa",
+      "state": "Florida"
+    },
+    {
+      "id": 4,
+      "name": "Exit 6",
+      "interstateId": 1,
+      "city": "Tampa",
+      "state": "Florida"
+    },
+    {
+      "id": 5,
+      "name": "Exit 7",
+      "interstateId": 1,
+      "city": "Tampa",
+      "state": "Florida"
+    },
+    {
+      "id": 6,
+      "name": "Exit 9",
+      "interstateId": 1,
+      "city": "Seffner",
+      "state": "Florida"
+    },
+    {
+      "id": 7,
+      "name": "Exit 10",
+      "interstateId": 1,
+      "city": "Seffner",
+      "state": "Florida"
+    },
+    {
+      "id": 8,
+      "name": "Exit 14",
+      "interstateId": 1,
+      "city": "Dover",
+      "state": "Florida"
+    },
+    {
+      "id": 9,
+      "name": "Exit 17",
+      "interstateId": 1,
+      "city": "Dover",
+      "state": "Florida"
+    },
+    {
+      "id": 10,
+      "name": "Exit 19",
+      "interstateId": 1,
+      "city": "Plant City",
+      "state": "Florida"
+    },
+    {
+      "id": 11,
+      "name": "Exit 21",
+      "interstateId": 1,
+      "city": "Plant City",
+      "state": "Florida"
+    },
+    {
+      "id": 12,
+      "name": "Exit 22",
+      "interstateId": 1,
+      "city": "Plant City",
+      "state": "Florida"
+    },
+    {
+      "id": 13,
+      "name": "Exit 25",
+      "interstateId": 1,
+      "city": "Plant City",
+      "state": "Florida"
+    },
+    {
+      "id": 14,
+      "name": "Exit 27",
+      "interstateId": 1,
+      "city": "Lakeland",
+      "state": "Florida"
+    },
+    {
+      "id": 15,
+      "name": "Exit 28",
+      "interstateId": 1,
+      "city": "Lakeland",
+      "state": "Florida"
+    },
+    {
+      "id": 16,
+      "name": "Exit 31",
+      "interstateId": 1,
+      "city": "Lakeland",
+      "state": "Florida"
+    },
+    {
+      "id": 17,
+      "name": "Exit 32",
+      "interstateId": 1,
+      "city": "Lakeland",
+      "state": "Florida"
+    },
+    {
+      "id": 18,
+      "name": "Exit 33",
+      "interstateId": 1,
+      "city": "Lakeland",
+      "state": "Florida"
+    },
+    {
+      "id": 19,
+      "name": "Exit 38",
+      "interstateId": 1,
+      "city": "Lakeland",
+      "state": "Florida"
+    },
+    {
+      "id": 20,
+      "name": "Exit 41",
+      "interstateId": 1,
+      "city": "Polk City",
+      "state": "Florida"
+    },
+    {
+      "id": 21,
+      "name": "Exit 44",
+      "interstateId": 1,
+      "city": "Polk City",
+      "state": "Florida"
+    },
+    {
+      "id": 22,
+      "name": "Exit 48",
+      "interstateId": 1,
+      "city": "Polk City",
+      "state": "Florida"
+    },
+    {
+      "id": 23,
+      "name": "Exit 55",
+      "interstateId": 1,
+      "city": "Davenport",
+      "state": "Florida"
+    },
+    {
+      "id": 24,
+      "name": "Exit 58",
+      "interstateId": 1,
+      "city": "Loughman",
+      "state": "Florida"
+    },
+    {
+      "id": 25,
+      "name": "Exit 60",
+      "interstateId": 1,
+      "city": "Kissimmee",
+      "state": "Florida"
+    },
+    {
+      "id": 26,
+      "name": "Exit 62",
+      "interstateId": 1,
+      "city": "Kissimmee",
+      "state": "Florida"
+    },
+    {
+      "id": 27,
+      "name": "Exit 64b a",
+      "interstateId": 1,
+      "city": "Kissimmee",
+      "state": "Florida"
+    },
+    {
+      "id": 28,
+      "name": "Exit 65",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 29,
+      "name": "Exit 67",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 30,
+      "name": "Exit 68",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 31,
+      "name": "Exit 71",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 32,
+      "name": "Exit 72",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 33,
+      "name": "Exit 74a",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 34,
+      "name": "Exit 74b",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 35,
+      "name": "Exit 75b a",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 36,
+      "name": "Exit 77",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 37,
+      "name": "Exit 78",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 38,
+      "name": "Exit 79",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 39,
+      "name": "Exit 80b a",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 40,
+      "name": "Exit 81a",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 41,
+      "name": "Exit 81b c",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 42,
+      "name": "Exit 82a",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 43,
+      "name": "Exit 82b",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 44,
+      "name": "Exit 82c",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 45,
+      "name": "Exit 83",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 46,
+      "name": "Exit 83a",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 47,
+      "name": "Exit 83b",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 48,
+      "name": "Exit 84",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 49,
+      "name": "Exit 85",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 50,
+      "name": "Exit 86",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 51,
+      "name": "Exit 87",
+      "interstateId": 1,
+      "city": "Orlando",
+      "state": "Florida"
+    },
+    {
+      "id": 52,
+      "name": "Exit 88",
+      "interstateId": 1,
+      "city": "Winter Park",
+      "state": "Florida"
+    },
+    {
+      "id": 53,
+      "name": "Exit 90b a",
+      "interstateId": 1,
+      "city": "Maitland",
+      "state": "Florida"
+    },
+    {
+      "id": 54,
+      "name": "Exit 92",
+      "interstateId": 1,
+      "city": "Altamonte Springs",
+      "state": "Florida"
+    },
+    {
+      "id": 55,
+      "name": "Exit 94",
+      "interstateId": 1,
+      "city": "Longwood",
+      "state": "Florida"
+    },
+    {
+      "id": 56,
+      "name": "Exit 98",
+      "interstateId": 1,
+      "city": "Lake Mary",
+      "state": "Florida"
+    },
+    {
+      "id": 57,
+      "name": "Exit 101a b",
+      "interstateId": 1,
+      "city": "Lake Mary",
+      "state": "Florida"
+    },
+    {
+      "id": 58,
+      "name": "Exit 101b c",
+      "interstateId": 1,
+      "city": "Lake Mary",
+      "state": "Florida"
+    },
+    {
+      "id": 59,
+      "name": "Exit 104",
+      "interstateId": 1,
+      "city": "Lake Monroe",
+      "state": "Florida"
+    },
+    {
+      "id": 60,
+      "name": "Exit 108",
+      "interstateId": 1,
+      "city": "Debary",
+      "state": "Florida"
+    },
+    {
+      "id": 61,
+      "name": "Exit 111b a",
+      "interstateId": 1,
+      "city": "Deltona",
+      "state": "Florida"
+    },
+    {
+      "id": 62,
+      "name": "Exit 114",
+      "interstateId": 1,
+      "city": "Cassadaga",
+      "state": "Florida"
+    },
+    {
+      "id": 63,
+      "name": "Exit 116",
+      "interstateId": 1,
+      "city": "Lake Helen",
+      "state": "Florida"
+    },
+    {
+      "id": 64,
+      "name": "Exit 118",
+      "interstateId": 1,
+      "city": "Lake Helen",
+      "state": "Florida"
+    },
+    {
+      "id": 65,
+      "name": "Exit 129",
+      "interstateId": 1,
+      "city": "Daytona Beach",
+      "state": "Florida"
+    },
+    {
+      "id": 66,
+      "name": "Exit 132",
+      "interstateId": 1,
+      "city": "Daytona Beach",
+      "state": "Florida"
+    },
+    {
+      "id": 67,
+      "name": "Exit 2",
+      "interstateId": 29,
+      "city": "Franklin",
+      "state": "Kentucky"
+    },
+    {
+      "id": 68,
+      "name": "Exit 6",
+      "interstateId": 29,
+      "city": "Franklin",
+      "state": "Kentucky"
+    },
+    {
+      "id": 69,
+      "name": "Exit 20",
+      "interstateId": 29,
+      "city": "Bowling Green",
+      "state": "Kentucky"
+    },
+    {
+      "id": 70,
+      "name": "Exit 22",
+      "interstateId": 29,
+      "city": "Bowling Green",
+      "state": "Kentucky"
+    },
+    {
+      "id": 71,
+      "name": "Exit 26",
+      "interstateId": 29,
+      "city": "Drake",
+      "state": "Kentucky"
+    },
+    {
+      "id": 72,
+      "name": "Exit 28",
+      "interstateId": 29,
+      "city": "Drake",
+      "state": "Kentucky"
+    },
+    {
+      "id": 73,
+      "name": "Exit 36",
+      "interstateId": 29,
+      "city": "Oakland",
+      "state": "Kentucky"
+    },
+    {
+      "id": 74,
+      "name": "Exit 38",
+      "interstateId": 29,
+      "city": "Smiths Grove",
+      "state": "Kentucky"
+    },
+    {
+      "id": 75,
+      "name": "Exit 43",
+      "interstateId": 29,
+      "city": "Rocky Hill",
+      "state": "Kentucky"
+    },
+    {
+      "id": 76,
+      "name": "Exit 48",
+      "interstateId": 29,
+      "city": "Park City",
+      "state": "Kentucky"
+    },
+    {
+      "id": 77,
+      "name": "Exit 53",
+      "interstateId": 29,
+      "city": "Cave City",
+      "state": "Kentucky"
+    },
+    {
+      "id": 78,
+      "name": "Exit 58",
+      "interstateId": 29,
+      "city": "Horse Cave",
+      "state": "Kentucky"
+    },
+    {
+      "id": 79,
+      "name": "Exit 65",
+      "interstateId": 29,
+      "city": "Munfordville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 80,
+      "name": "Exit 71",
+      "interstateId": 29,
+      "city": "Bonnieville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 81,
+      "name": "Exit 76",
+      "interstateId": 29,
+      "city": "Upton",
+      "state": "Kentucky"
+    },
+    {
+      "id": 82,
+      "name": "Exit 81",
+      "interstateId": 29,
+      "city": "Sonora",
+      "state": "Kentucky"
+    },
+    {
+      "id": 83,
+      "name": "Exit 86",
+      "interstateId": 29,
+      "city": "Glendale",
+      "state": "Kentucky"
+    },
+    {
+      "id": 84,
+      "name": "Exit 91",
+      "interstateId": 29,
+      "city": "Elizabethtown",
+      "state": "Kentucky"
+    },
+    {
+      "id": 85,
+      "name": "Exit 93",
+      "interstateId": 29,
+      "city": "Elizabethtown",
+      "state": "Kentucky"
+    },
+    {
+      "id": 86,
+      "name": "Exit 94",
+      "interstateId": 29,
+      "city": "Elizabethtown",
+      "state": "Kentucky"
+    },
+    {
+      "id": 87,
+      "name": "Exit 102",
+      "interstateId": 29,
+      "city": "Lebanon Junction",
+      "state": "Kentucky"
+    },
+    {
+      "id": 88,
+      "name": "Exit 105",
+      "interstateId": 29,
+      "city": "Lebanon Junction",
+      "state": "Kentucky"
+    },
+    {
+      "id": 89,
+      "name": "Exit 112",
+      "interstateId": 29,
+      "city": "Clermont",
+      "state": "Kentucky"
+    },
+    {
+      "id": 90,
+      "name": "Exit 116",
+      "interstateId": 29,
+      "city": "Shepherdsville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 91,
+      "name": "Exit 117",
+      "interstateId": 29,
+      "city": "Shepherdsville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 92,
+      "name": "Exit 121",
+      "interstateId": 29,
+      "city": "Brooks",
+      "state": "Kentucky"
+    },
+    {
+      "id": 93,
+      "name": "Exit 125b a",
+      "interstateId": 29,
+      "city": "Louisville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 94,
+      "name": "Exit 127",
+      "interstateId": 29,
+      "city": "Louisville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 95,
+      "name": "Exit 128",
+      "interstateId": 29,
+      "city": "Louisville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 96,
+      "name": "Exit 130",
+      "interstateId": 29,
+      "city": "Louisville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 97,
+      "name": "Exit 131b a",
+      "interstateId": 29,
+      "city": "Louisville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 98,
+      "name": "Exit 133a",
+      "interstateId": 29,
+      "city": "Louisville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 99,
+      "name": "Exit 133b",
+      "interstateId": 29,
+      "city": "Louisville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 100,
+      "name": "Exit 134b a",
+      "interstateId": 29,
+      "city": "Louisville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 101,
+      "name": "Exit 135",
+      "interstateId": 29,
+      "city": "Louisville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 102,
+      "name": "Exit 136b",
+      "interstateId": 29,
+      "city": "Louisville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 103,
+      "name": "Exit 136c",
+      "interstateId": 29,
+      "city": "Louisville",
+      "state": "Kentucky"
+    },
+    {
+      "id": 104,
+      "name": "Exit 137",
+      "interstateId": 29,
+      "city": "Louisville",
+      "state": "Kentucky"
+    }
+  ],
+  "exitRating": [
+    {
+      "id": 1,
+      "foodRating": 4,
+      "gasStationRating": 3,
+      "bathroomRating": 3,
+      "numberofRestaurants": 55,
+      "comments": "",
+      "overallRating": 3.33,
+      "interstateId": 29,
+      "exitId": 67
+    }
+  ],
+  "userRating": [
+    {
+      "id": 1,
+      "userId": 1,
+      "exitRatingId": 1
+    },
+    {
+      "id": 2,
+      "userId": 4,
+      "exitRatingId": 2
+    }
+  ]
+}
