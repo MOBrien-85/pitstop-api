@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Wallaby Brownill",
-      "email": "wbrownill0@1688.com"
+      "name": "Homer Simpson",
+      "email": "homerjsimpson@springfieldnuclear.net"
     },
     {
       "id": 2,
@@ -99,6 +99,11 @@
       "id": 20,
       "name": "Lotta Gownge",
       "email": "lgowngej@sogou.com"
+    },
+    {
+      "email": "bennett.obrien@bfoinc.com",
+      "name": "Bennett O'Brien",
+      "id": 21
     }
   ],
   "interstates": [
@@ -1069,29 +1074,124 @@
       "state": "Kentucky"
     }
   ],
-  "exitRating": [
-    {
-      "id": 1,
-      "foodRating": 4,
-      "gasStationRating": 3,
-      "bathroomRating": 3,
-      "numberofRestaurants": 55,
-      "comments": "",
-      "overallRating": 3.33,
-      "interstateId": 29,
-      "exitId": 67
-    }
-  ],
-  "userRating": [
+  "exitRatings": [
     {
       "id": 1,
       "userId": 1,
-      "exitRatingId": 1
+      "foodRating": 4,
+      "gasStationRating": 3,
+      "bathroomRating": 3,
+      "comments": "Not a bad exit! plenty of food options and places to get gas!",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 69
     },
     {
-      "id": 2,
-      "userId": 4,
-      "exitRatingId": 2
+      "id": 3,
+      "userId": 2,
+      "foodRating": 1.5,
+      "gasStationRating": 0.7,
+      "bathroomRating": 1.5,
+      "comments": "I hated it! ",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 69
+    },
+    {
+      "id": 4,
+      "userId": 5,
+      "foodRating": 4.5,
+      "gasStationRating": 5,
+      "bathroomRating": 3.5,
+      "comments": "bathrooms could be cleaner but this is a busy spot. plenty of food options and big gas stations with lots of food! great place to stop.",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 81,
+      "dateCompleted": ""
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "foodRating": 1,
+      "gasStationRating": 1.2,
+      "bathroomRating": 1.1,
+      "comments": "there's nothing here.",
+      "rvParking": false,
+      "interstateId": 29,
+      "exitId": 73,
+      "dateCompleted": ""
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "foodRating": 4.2,
+      "gasStationRating": 3.5,
+      "bathroomRating": 4,
+      "comments": "Had everything I needed! absolutely no serial killers!",
+      "rvParking": false,
+      "interstateId": 29,
+      "exitId": 71,
+      "dateCompleted": ""
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "foodRating": 4.5,
+      "gasStationRating": 4.5,
+      "bathroomRating": 5,
+      "comments": "So many options! Great stop on the way to visit family.",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 70,
+      "dateCompleted": ""
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "foodRating": 1.5,
+      "gasStationRating": 1.5,
+      "bathroomRating": 1,
+      "comments": "horrible place. no options to eat. the one bathroom was straight out of a horror movie.",
+      "rvParking": false,
+      "interstateId": 1,
+      "exitId": 8,
+      "dateCompleted": ""
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "foodRating": 3,
+      "gasStationRating": 2.5,
+      "bathroomRating": 3,
+      "comments": "pretty good spot",
+      "rvParking": false,
+      "interstateId": 29,
+      "exitId": 67,
+      "dateCompleted": ""
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "foodRating": 3.5,
+      "gasStationRating": 3,
+      "bathroomRating": 3,
+      "comments": "Several food options. a couple of new gas stations.",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 77,
+      "dateCompleted": ""
+    },
+    {
+      "id": 12,
+      "userId": 21,
+      "foodRating": 2.5,
+      "gasStationRating": 2,
+      "bathroomRating": 2,
+      "comments": "not much here except Michael Myers",
+      "rvParking": false,
+      "interstateId": 29,
+      "exitId": 74,
+      "dateCompleted": ""
     }
   ]
 }
