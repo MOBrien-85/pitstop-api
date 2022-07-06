@@ -2,108 +2,179 @@
   "users": [
     {
       "id": 1,
-      "name": "Homer Simpson",
-      "email": "homerjsimpson@springfieldnuclear.net"
+      "name": "Homer Simpson II",
+      "email": "homerjsimpson@springfieldnuclear.net",
+      "location": "Springfield, ??",
+      "favoriteDestination": "Springfield, IL"
     },
     {
       "id": 2,
       "name": "Glenda Awty",
-      "email": "gawty1@goodreads.com"
+      "email": "gawty1@goodreads.com",
+      "location": "Temple, AZ",
+      "favoriteDestination": "Flagstaff, AZ"
     },
     {
       "id": 3,
       "name": "Oran Fenimore",
-      "email": "ofenimore2@about.com"
+      "email": "ofenimore2@about.com",
+      "location": "Portland, OR",
+      "favoriteDestination": "Louisville, KY"
     },
     {
       "id": 4,
       "name": "Aylmar Hunnam",
-      "email": "ahunnam3@skype.com"
+      "email": "ahunnam3@skype.com",
+      "location": "Nashville, TN",
+      "favoriteDestination": "Carson City, NV"
     },
     {
       "id": 5,
       "name": "Vonny Parrett",
-      "email": "vparrett4@usda.gov"
+      "email": "vparrett4@usda.gov",
+      "location": "Hamden, CT",
+      "favoriteDestination": "Lexington, KY"
     },
     {
       "id": 6,
       "name": "Peterus Bennetto",
-      "email": "pbennetto5@dell.com"
+      "email": "pbennetto5@dell.com",
+      "location": "Columbus, OH",
+      "favoriteDestination": "Cleveland, OH"
     },
     {
       "id": 7,
       "name": "Florinda Mines",
-      "email": "fmines6@phpbb.com"
+      "email": "fmines6@phpbb.com",
+      "location": "Newport News, VA",
+      "favoriteDestination": "Derwood, MD"
     },
     {
       "id": 8,
       "name": "Barris Saxelby",
-      "email": "bsaxelby7@dedecms.com"
+      "email": "bsaxelby7@dedecms.com",
+      "location": "Austin, TX",
+      "favoriteDestination": "New York, NY"
     },
     {
       "id": 9,
       "name": "Garvin Dunks",
-      "email": "gdunks8@hud.gov"
+      "email": "gdunks8@hud.gov",
+      "location": "Butte, MT",
+      "favoriteDestination": "Salt Lake City, UT"
     },
     {
       "id": 10,
       "name": "Archambault Vamplers",
-      "email": "avamplers9@newyorker.com"
+      "email": "avamplers9@newyorker.com",
+      "location": "New York, NY",
+      "favoriteDestination": "Brooklyn, NY"
     },
     {
       "id": 11,
       "name": "Mirelle Manger",
-      "email": "mmangera@phoca.cz"
+      "email": "mmangera@phoca.cz",
+      "location": "Bowling Green, KY",
+      "favoriteDestination": "Nashville, TN"
     },
     {
       "id": 12,
       "name": "Devon Uc",
-      "email": "ducb@miibeian.gov.cn"
+      "email": "ducb@miibeian.gov.cn",
+      "location": "Los Angeles, CA",
+      "favoriteDestination": "Reno, NV"
     },
     {
       "id": 13,
       "name": "Cate Forde",
-      "email": "cfordec@ihg.com"
+      "email": "cfordec@ihg.com",
+      "location": "Oakland, CA",
+      "favoriteDestination": "San Francisco, CA"
     },
     {
       "id": 14,
       "name": "Belva Lorincz",
-      "email": "blorinczd@jugem.jp"
+      "email": "blorinczd@jugem.jp",
+      "location": "Hamden, CT",
+      "favoriteDestination": "Brooklyn, NY"
     },
     {
       "id": 15,
       "name": "Elisha Leeuwerink",
-      "email": "eleeuwerinke@unc.edu"
+      "email": "eleeuwerinke@unc.edu",
+      "location": "Austin, TX",
+      "favoriteDestination": "Lexington, KY"
     },
     {
       "id": 16,
       "name": "Caspar Darch",
-      "email": "cdarchf@yellowpages.com"
+      "email": "cdarchf@yellowpages.com",
+      "location": "Los Angeles, CA",
+      "favoriteDestination": "New York, NY"
     },
     {
       "id": 17,
       "name": "Lauritz Bulcock",
-      "email": "lbulcockg@sina.com.cn"
+      "email": "lbulcockg@sina.com.cn",
+      "location": "Columbus, OH",
+      "favoriteDestination": "Carson City, NV"
     },
     {
       "id": 18,
       "name": "Willyt Sterley",
-      "email": "wsterleyh@twitter.com"
+      "email": "wsterleyh@twitter.com",
+      "location": "Portland, OR",
+      "favoriteDestination": "Atlanta, GA"
     },
     {
       "id": 19,
       "name": "Mohandas Hudghton",
-      "email": "mhudghtoni@histats.com"
+      "email": "mhudghtoni@histats.com",
+      "location": "Perry, GA",
+      "favoriteDestination": "Rockville, MD"
     },
     {
       "id": 20,
       "name": "Lotta Gownge",
-      "email": "lgowngej@sogou.com"
+      "email": "lgowngej@sogou.com",
+      "location": "Birmingham, AL",
+      "favoriteDestination": "Atlanta, GA"
     },
     {
       "email": "bennett.obrien@bfoinc.com",
       "name": "Bennett O'Brien",
-      "id": 21
+      "id": 21,
+      "location": "Hendersonville, TN",
+      "favoriteDestination": "New York, NY"
+    },
+    {
+      "name": "T Rex",
+      "email": "theodoreRex@tyrant.org",
+      "id": 22,
+      "location": "Butte, MT",
+      "favoriteDestination": "Omaha, NE"
+    },
+    {
+      "name": "Chareth Cutestory",
+      "email": "charethcutestory@bluthhomes.com",
+      "location": "Newport Beach, CA",
+      "favoriteDestination": "Seattle, WA",
+      "id": 23
+    },
+    {
+      "name": "Da'Boogster",
+      "email": "McBoog@boogerston.net",
+      "location": "Dixie's Butthole, TN",
+      "favoriteDestination": "Your mama's lap.",
+      "fullName": "Boogey McBoogerston",
+      "id": 24
+    },
+    {
+      "name": "James Bond",
+      "email": "007@hmss.gov",
+      "location": "London, England",
+      "favoriteDestination": "Des Moines, IA",
+      "id": 25
     }
   ],
   "interstates": [
@@ -1072,31 +1143,268 @@
       "interstateId": 29,
       "city": "Louisville",
       "state": "Kentucky"
+    },
+    {
+      "id": 105,
+      "name": "Exit 1",
+      "interstateId": 29,
+      "city": "Elkton",
+      "state": "Tennessee"
+    },
+    {
+      "id": 106,
+      "name": "Exit 6",
+      "interstateId": 29,
+      "city": "Elkton",
+      "state": "Tennessee"
+    },
+    {
+      "id": 107,
+      "name": "Exit 14",
+      "interstateId": 29,
+      "city": "Frankewing",
+      "state": "Tennessee"
+    },
+    {
+      "id": 108,
+      "name": "Exit 22",
+      "interstateId": 29,
+      "city": "Cornersville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 109,
+      "name": "Exit 27",
+      "interstateId": 29,
+      "city": "Cornersville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 110,
+      "name": "Exit 32",
+      "interstateId": 29,
+      "city": "Lewisburg",
+      "state": "Tennessee"
+    },
+    {
+      "id": 111,
+      "name": "Exit 37",
+      "interstateId": 29,
+      "city": "Culleoka",
+      "state": "Tennessee"
+    },
+    {
+      "id": 112,
+      "name": "Exit 46",
+      "interstateId": 29,
+      "city": "Spring Hill",
+      "state": "Tennessee"
+    },
+    {
+      "id": 113,
+      "name": "Exit 53",
+      "interstateId": 29,
+      "city": "Spring Hill",
+      "state": "Tennessee"
+    },
+    {
+      "id": 114,
+      "name": "Exit 59b a",
+      "interstateId": 29,
+      "city": "Thompsons Station",
+      "state": "Tennessee"
+    },
+    {
+      "id": 115,
+      "name": "Exit 61",
+      "interstateId": 29,
+      "city": "Brentwood",
+      "state": "Tennessee"
+    },
+    {
+      "id": 116,
+      "name": "Exit 65",
+      "interstateId": 29,
+      "city": "Franklin",
+      "state": "Tennessee"
+    },
+    {
+      "id": 117,
+      "name": "Exit 68b a",
+      "interstateId": 29,
+      "city": "Franklin",
+      "state": "Tennessee"
+    },
+    {
+      "id": 118,
+      "name": "Exit 69",
+      "interstateId": 29,
+      "city": "Brentwood",
+      "state": "Tennessee"
+    },
+    {
+      "id": 119,
+      "name": "Exit 71",
+      "interstateId": 29,
+      "city": "Brentwood",
+      "state": "Tennessee"
+    },
+    {
+      "id": 120,
+      "name": "Exit 74",
+      "interstateId": 29,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 121,
+      "name": "Exit 78b a",
+      "interstateId": 29,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 122,
+      "name": "Exit 79",
+      "interstateId": 29,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 123,
+      "name": "Exit 80",
+      "interstateId": 29,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 124,
+      "name": "Exit 81",
+      "interstateId": 29,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 125,
+      "name": "Exit 82b a",
+      "interstateId": 29,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 126,
+      "name": "Exit 84b a",
+      "interstateId": 29,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 127,
+      "name": "Exit 85",
+      "interstateId": 29,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 128,
+      "name": "Exit 86",
+      "interstateId": 29,
+      "city": "Goodlettsville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 129,
+      "name": "Exit 87b a",
+      "interstateId": 29,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 130,
+      "name": "Exit 88b a",
+      "interstateId": 29,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 131,
+      "name": "Exit 90b",
+      "interstateId": 29,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 132,
+      "name": "Exit 90a",
+      "interstateId": 29,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 133,
+      "name": "Exit 92",
+      "interstateId": 29,
+      "city": "Madison",
+      "state": "Tennessee"
+    },
+    {
+      "id": 134,
+      "name": "Exit 95",
+      "interstateId": 29,
+      "city": "Madison",
+      "state": "Tennessee"
+    },
+    {
+      "id": 135,
+      "name": "Exit 96",
+      "interstateId": 29,
+      "city": "Madison",
+      "state": "Tennessee"
+    },
+    {
+      "id": 136,
+      "name": "Exit 97",
+      "interstateId": 29,
+      "city": "Goodlettsville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 137,
+      "name": "Exit 98",
+      "interstateId": 29,
+      "city": "Goodlettsville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 138,
+      "name": "Exit 104",
+      "interstateId": 29,
+      "city": "Ridgetop",
+      "state": "Tennessee"
+    },
+    {
+      "id": 139,
+      "name": "Exit 108",
+      "interstateId": 29,
+      "city": "White House",
+      "state": "Tennessee"
+    },
+    {
+      "id": 140,
+      "name": "Exit 112",
+      "interstateId": 29,
+      "city": "Cross Plains",
+      "state": "Tennessee"
+    },
+    {
+      "id": 141,
+      "name": "Exit 117",
+      "interstateId": 29,
+      "city": "Mitchellville",
+      "state": "Tennessee"
     }
   ],
   "exitRatings": [
-    {
-      "id": 1,
-      "userId": 1,
-      "foodRating": 4,
-      "gasStationRating": 3,
-      "bathroomRating": 3,
-      "comments": "Not a bad exit! plenty of food options and places to get gas!",
-      "rvParking": true,
-      "interstateId": 29,
-      "exitId": 69
-    },
-    {
-      "id": 3,
-      "userId": 2,
-      "foodRating": 1.5,
-      "gasStationRating": 0.7,
-      "bathroomRating": 1.5,
-      "comments": "I hated it! ",
-      "rvParking": true,
-      "interstateId": 29,
-      "exitId": 69
-    },
     {
       "id": 4,
       "userId": 5,
@@ -1128,7 +1436,7 @@
       "gasStationRating": 3.5,
       "bathroomRating": 4,
       "comments": "Had everything I needed! absolutely no serial killers!",
-      "rvParking": false,
+      "rvParking": true,
       "interstateId": 29,
       "exitId": 71,
       "dateCompleted": ""
@@ -1148,49 +1456,289 @@
     {
       "id": 8,
       "userId": 1,
-      "foodRating": 1.5,
-      "gasStationRating": 1.5,
-      "bathroomRating": 1,
-      "comments": "horrible place. no options to eat. the one bathroom was straight out of a horror movie.",
-      "rvParking": false,
-      "interstateId": 1,
-      "exitId": 8,
-      "dateCompleted": ""
-    },
-    {
-      "id": 9,
-      "userId": 1,
       "foodRating": 3,
-      "gasStationRating": 2.5,
+      "gasStationRating": 3.5,
       "bathroomRating": 3,
-      "comments": "pretty good spot",
+      "comments": "Pretty good. Has what you need.",
       "rvParking": false,
-      "interstateId": 29,
-      "exitId": 67,
-      "dateCompleted": ""
-    },
-    {
-      "id": 10,
-      "userId": 1,
-      "foodRating": 3.5,
-      "gasStationRating": 3,
-      "bathroomRating": 3,
-      "comments": "Several food options. a couple of new gas stations.",
-      "rvParking": true,
       "interstateId": 29,
       "exitId": 77,
       "dateCompleted": ""
     },
     {
-      "id": 12,
-      "userId": 21,
-      "foodRating": 2.5,
+      "id": 9,
+      "userId": 22,
+      "foodRating": 2,
       "gasStationRating": 2,
       "bathroomRating": 2,
-      "comments": "not much here except Michael Myers",
+      "comments": "doesnt have facilities for dinosaurs",
+      "rvParking": false,
+      "interstateId": 29,
+      "exitId": 77,
+      "dateCompleted": ""
+    },
+    {
+      "id": 11,
+      "userId": 8,
+      "foodRating": 3,
+      "gasStationRating": 3,
+      "bathroomRating": 2,
+      "comments": "not much here. bathrooms were dirty",
+      "rvParking": false,
+      "interstateId": 1,
+      "exitId": 24,
+      "dateCompleted": ""
+    },
+    {
+      "id": 12,
+      "userId": 21,
+      "foodRating": 1,
+      "gasStationRating": 1.5,
+      "bathroomRating": 1,
+      "comments": "Nothing here except one gas station",
       "rvParking": false,
       "interstateId": 29,
       "exitId": 74,
+      "dateCompleted": ""
+    },
+    {
+      "id": 13,
+      "userId": 21,
+      "foodRating": 5,
+      "gasStationRating": 5,
+      "bathroomRating": 5,
+      "comments": "bg BABY!",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 69,
+      "dateCompleted": ""
+    },
+    {
+      "id": 14,
+      "userId": 21,
+      "foodRating": 5,
+      "gasStationRating": 5,
+      "bathroomRating": 5,
+      "comments": "Great exit! It's got everything you need!",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 83,
+      "dateCompleted": ""
+    },
+    {
+      "id": 15,
+      "userId": 1,
+      "foodRating": 5,
+      "gasStationRating": 5,
+      "bathroomRating": 5,
+      "comments": "Best exit for many miles!",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 69,
+      "dateCompleted": ""
+    },
+    {
+      "id": 16,
+      "userId": 1,
+      "foodRating": 1,
+      "gasStationRating": 1,
+      "bathroomRating": 1,
+      "comments": "nothing here",
+      "rvParking": false,
+      "interstateId": 29,
+      "exitId": 87,
+      "dateCompleted": ""
+    },
+    {
+      "id": 17,
+      "userId": 1,
+      "foodRating": 2.5,
+      "gasStationRating": 2.5,
+      "bathroomRating": 2.5,
+      "comments": "so so",
+      "rvParking": false,
+      "interstateId": 29,
+      "exitId": 75,
+      "dateCompleted": ""
+    },
+    {
+      "id": 18,
+      "userId": 9,
+      "foodRating": 4,
+      "gasStationRating": 5,
+      "bathroomRating": 1.5,
+      "comments": "I think all bathrooms should contain ZERO germs!",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 69,
+      "dateCompleted": ""
+    },
+    {
+      "id": 19,
+      "userId": 17,
+      "foodRating": 4.5,
+      "gasStationRating": 4.5,
+      "bathroomRating": 4.5,
+      "comments": "if the area wasn't so busy it would get a 5 for all of them!",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 69,
+      "dateCompleted": ""
+    },
+    {
+      "id": 20,
+      "userId": 17,
+      "foodRating": 4,
+      "gasStationRating": 5,
+      "bathroomRating": 4,
+      "comments": "We've been here six times now and each time have been very impressed with the cuisine and service.  It is a \"trust the chef\" kind of place.\n\nThe scallops and grits are amazing.  We wish they were an option throughout the year. This dish occasionally shows up as a special. The crab cakes are wonderful. Shrimp linguini and the salmon dish got high marks by our dinner guests.\n\nThe one odd detractor our last visit was our server required \"permission from the kitchen\" when our guest requested some bread with the salad, saying bread is only reserved for pasta dishes.  He returned later indicating that it was granted like it was a bit of a grand gesture. This felt awkward and a little embarrassing for our guests and ourselves. We trust the talented chef, but many of these dishes have grits and sauces for which bread brings a welcome flavor and texture. We had no issue paying extra for it. The same evening, two individuals at separate tables requested bread with similar difficulty and we heard disappointed discussion when the waitstaff left. This awkward exchange detracted from a fine-dining experience where we spent a few hundred dollars entertaining guests and left us wondering how tactfully a truly unique special request would be handled.\n\nWe find the dinner portions to be adequate. Overall, this is a wonderful place and perhaps a few kinks will be worked out for a more discreet and accommodating ordering experience.",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 118,
+      "dateCompleted": ""
+    },
+    {
+      "id": 21,
+      "userId": 21,
+      "foodRating": 3.5,
+      "gasStationRating": 4,
+      "bathroomRating": 3,
+      "comments": "this exit gets me to granny! otherwise...it's not much. ",
+      "rvParking": false,
+      "interstateId": 29,
+      "exitId": 77,
+      "dateCompleted": ""
+    },
+    {
+      "id": 22,
+      "userId": 24,
+      "foodRating": 1,
+      "gasStationRating": 1,
+      "bathroomRating": 5,
+      "comments": "RUDE service tendant at the crevon! WILL NOT BE GETTIG BY BIUSNES!",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 70,
+      "dateCompleted": ""
+    },
+    {
+      "id": 23,
+      "userId": 24,
+      "foodRating": 0,
+      "gasStationRating": 0,
+      "bathroomRating": 0,
+      "comments": "this is just a road, WTF?! Whers tha beef?!",
+      "rvParking": false,
+      "interstateId": 29,
+      "exitId": 69,
+      "dateCompleted": ""
+    },
+    {
+      "id": 24,
+      "userId": 24,
+      "foodRating": 0,
+      "gasStationRating": 2.5,
+      "bathroomRating": 5,
+      "comments": "Slowest service this side of the Misippi. Bathrooms on Wallace are 10 ******, if you can get a seat.",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 136,
+      "dateCompleted": ""
+    },
+    {
+      "id": 25,
+      "userId": 3,
+      "foodRating": 4,
+      "gasStationRating": 4,
+      "bathroomRating": 5,
+      "comments": "really great stop on the highway!",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 69,
+      "dateCompleted": ""
+    },
+    {
+      "id": 26,
+      "userId": 3,
+      "foodRating": 3.5,
+      "gasStationRating": 4,
+      "bathroomRating": 3,
+      "comments": "A pretty good place to make a pitstop!",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 137,
+      "dateCompleted": ""
+    },
+    {
+      "id": 27,
+      "userId": 25,
+      "foodRating": 2,
+      "gasStationRating": 1.5,
+      "bathroomRating": 1.5,
+      "comments": "is this in America? I'm so confused! back to jolly old London for this old sop!",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 69,
+      "dateCompleted": ""
+    },
+    {
+      "id": 28,
+      "userId": 14,
+      "foodRating": 3.5,
+      "gasStationRating": 3,
+      "bathroomRating": 3.5,
+      "comments": "i have high standards so this place is only okay in my book. which is a real book. and no, it's not the necronomicon despite what Kathy says. don't listen to her. She's just jealous of all the deadites in my house.",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 69,
+      "dateCompleted": ""
+    },
+    {
+      "id": 29,
+      "userId": 14,
+      "foodRating": 4,
+      "gasStationRating": 4,
+      "bathroomRating": 4,
+      "comments": "very good exit if you don't mind the traffic too much. if you take the road away from town, it's not so bad.",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 70,
+      "dateCompleted": ""
+    },
+    {
+      "id": 30,
+      "userId": 15,
+      "foodRating": 2,
+      "gasStationRating": 3,
+      "bathroomRating": 4,
+      "comments": "the terlet was good",
+      "rvParking": false,
+      "interstateId": 29,
+      "exitId": 69,
+      "dateCompleted": ""
+    },
+    {
+      "id": 31,
+      "userId": 15,
+      "foodRating": 4,
+      "gasStationRating": 4,
+      "bathroomRating": 4,
+      "comments": "man this place has everything but it was so busy!",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 70,
+      "dateCompleted": ""
+    },
+    {
+      "id": 32,
+      "userId": 1,
+      "foodRating": 4,
+      "gasStationRating": 4.5,
+      "bathroomRating": 4.5,
+      "comments": "THE MALL!",
+      "rvParking": true,
+      "interstateId": 29,
+      "exitId": 70,
       "dateCompleted": ""
     }
   ]
